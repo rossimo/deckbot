@@ -6,7 +6,8 @@
     "test": "./node_modules/.bin/mocha tests"
   },
   "dependencies": {
-    "botkit": "0.2.2"
+    "botkit": "0.2.2",
+    "mongoose": "^4.5.8"
   },
   "devDependencies": {
     "mocha": "3.0.1"
